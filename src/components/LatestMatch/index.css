@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  background-color: #1e293b;
+  width: 67vw;
+  padding: 20px;
+  border-radius: 20px;
+}
+.logo {
+  width: 300px;
+  height: 300px;
+}

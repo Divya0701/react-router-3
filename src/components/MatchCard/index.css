@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.match-container {
+  width: 40%;
+  color: white;
+  background-color: #1e293b;
+  padding: 10px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}

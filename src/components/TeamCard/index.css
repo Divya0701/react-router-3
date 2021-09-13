@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.card-bg-container {
+  display: flex;
+  width: 40%;
+  margin-right: 0px;
+  margin-right: 15px;
+  background-color: #ffffff33;
+  margin-bottom: 15px;
+  border: 1px solid white;
+  border-radius: 15px;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+}
+.card-container {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.team-logo {
+  width: 30%;
+}
+.para {
+  margin-left: 10px;
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+}

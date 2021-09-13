@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.banner-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #1e293b);
+  height: auto;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bannerImage {
+  height: 50vh;
+}
+.head {
+  text-align: left;
+  color: white;
+  font-family: 'Bree Serif';
+}
+.ul-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
